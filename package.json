@@ -1,0 +1,23 @@
+{
+  "name": "artur-rios-website",
+  "version": "0.0.1",
+  "description": "My personal website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artur-rso/artur-rios-website.git"
+  },
+  "keywords": [
+    "Personal",
+    "Website"
+  ],
+  "author": "Artur Rios",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/artur-rso/artur-rios-website/issues"
+  },
+  "homepage": "https://github.com/artur-rso/artur-rios-website#readme"
+}
