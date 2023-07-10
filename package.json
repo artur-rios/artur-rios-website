@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/artur-rso/artur-rios-website#readme",
   "dependencies": {
-    "simple-user-interface-components": "^0.0.1"
+    "simple-user-interface-components": "^0.0.6"
   }
 }
