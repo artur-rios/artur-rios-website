@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/artur-rso/artur-rios-website/issues"
   },
-  "homepage": "https://github.com/artur-rso/artur-rios-website#readme"
+  "homepage": "https://github.com/artur-rso/artur-rios-website#readme",
+  "dependencies": {
+    "simple-user-interface-components": "^0.0.1"
+  }
 }
